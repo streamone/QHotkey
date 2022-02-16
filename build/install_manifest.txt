@@ -1,0 +1,6 @@
+/usr/local/lib/libqhotkey.a
+/usr/local/include/qhotkey.h
+/usr/local/include/QHotkey
+/usr/local/lib/cmake/QHotkey/QHotkeyConfigVersion.cmake
+/usr/local/lib/cmake/QHotkey/QHotkeyConfig.cmake
+/usr/local/lib/cmake/QHotkey/QHotkeyConfig-noconfig.cmake

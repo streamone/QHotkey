@@ -7,6 +7,9 @@ option(QHOTKEY_INSTALL "Enable install rule" ON)
 
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 set(CMAKE_AUTOMOC ON)
+if (APPLE)
+    set(CMAKE_OSX_ARCHITECTURES x86_64;arm64 CACHE STRING "cpu architectures supported" FORCE)
+endif()
 
 if(NOT QT_DEFAULT_MAJOR_VERSION)
     set(QT_DEFAULT_MAJOR_VERSION 5 CACHE STRING "Qt version to use (5 or 6), defaults to 5")

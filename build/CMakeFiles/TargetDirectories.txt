@@ -1,0 +1,8 @@
+/Users/streamone/projects/QHotkey/build/CMakeFiles/qhotkey.dir
+/Users/streamone/projects/QHotkey/build/CMakeFiles/edit_cache.dir
+/Users/streamone/projects/QHotkey/build/CMakeFiles/rebuild_cache.dir
+/Users/streamone/projects/QHotkey/build/CMakeFiles/list_install_components.dir
+/Users/streamone/projects/QHotkey/build/CMakeFiles/install.dir
+/Users/streamone/projects/QHotkey/build/CMakeFiles/install/local.dir
+/Users/streamone/projects/QHotkey/build/CMakeFiles/install/strip.dir
+/Users/streamone/projects/QHotkey/build/CMakeFiles/qhotkey_autogen.dir
